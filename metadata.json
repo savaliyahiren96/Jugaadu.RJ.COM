@@ -1,0 +1,6 @@
+{
+  "name": "Jugaddu.RJ.COM",
+  "description": "Smart 'check this before you buy' deal finder & savings stack for Indian shoppers across Amazon, Flipkart, Croma, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
